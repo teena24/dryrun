@@ -1,0 +1,25 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\Copy File Path]
+@="Copy File Path"
+"icon"="mmcndmgr.dll,21"
+"position"="top"
+
+[HKEY_CLASSES_ROOT\*\shell\Copy File Path\command]
+@="cmd.exe /c echo|set /p=%1|clip"
+
+[HKEY_CLASSES_ROOT\Directory\shell\Copy Folder Path]
+@="Copy Folder Path"
+"icon"="mmcndmgr.dll,23"
+"position"="top"
+
+[HKEY_CLASSES_ROOT\Directory\shell\Copy Folder Path\command]
+@="cmd.exe /c echo|set /p=%1|clip"
+
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\Copy Folder Path]
+@="Copy Folder Path"
+"icon"="mmcndmgr.dll,23"
+"position"="top"
+
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\Copy Folder Path\command]
+@="cmd.exe /c echo|set /p=%1|clip"

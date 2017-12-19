@@ -1,0 +1,58 @@
+http://www.windowscentral.com/best-windows-10-keyboard-shortcuts
+https://www.onmsft.com/news/heres-full-list-keyboard-shortcuts-windows-10
+
+Keyboard shortcut								Action
+=================								======
+Winkey											Open or close Start Menu
+Winkey + A										Open Action center
+Winkey + C										Open Cortana in listening mode
+Winkey + D										Display and hide the desktop
+Winkey + E										Open File Explorer
+Winkey + G										Open Game bar when a game is open
+Winkey + H										Open the Share charm
+Winkey + I										Open Settings
+Winkey + K										Open the Connect quick action
+Winkey + L										Lock your PC or switch accounts
+Winkey + M										Minimize all windows
+Winkey + P										Project a screen
+Winkey + R										Open Run dialog box
+Winkey + Q										Search the web and Windows with Cortana (speech)
+Winkey + S										Search the web and Windows with Cortana (keyboard input)
+Winkey + U										Open Ease of Access Center
+Winkey + X										Open Quick Link menu
+Winkey + Number									Open the app pinned to the taskbar in the position indicated by the number
+Winkey + Comma									Temporarily peek at the desktop
+Winkey + Left									Snap app windows left
+Winkey + Right									Snap app windows right
+Winkey + Up										Maximize app windows
+Winkey + Down									Minimize app windows
+Winkey + Ctrl + D								Add a virtual desktop
+Winkey + Ctrl + Left/Right						Switch between virtual desktops
+Winkey + Ctrl + F4								Close current virtual desktop
+Winkey + Enter									Open Narrator
+Winkey + Space									Switch keyboard input language (if you have added at least a second one)
+Winkey + Home									Minimize all but the active desktop window (restores all windows on second stroke)
+Winkey + PrtScn									Capture a screenshot and save in Screenshots folder
+Winkey + Shift + Up								Stretch the desktop window to the top and bottom of the screen
+Winkey + Shift + Left/Right						Move current Window from one monitor to another (when using a multiple monitor setup)
+Winkey + Tab									Open Task view
+Winkey + "+"									Zoom in using the magnifier
+Winkey + "-"									Zoom out using the magnifier
+Alt + Tab										Switch between open apps
+Alt + Space										Restore, move, size, minimize, maximize or close current window
+Alt + Left										Go back
+Alt + Right										Go foward
+Alt + Page Up									Move up one screen
+Alt + Page down									Move down one screen
+Alt + F4										Close the active window
+Ctrl + Alt +Tab									View open apps
+Ctrl + C										Copy selected items to clipboard
+Ctrl + X										Cut selected items
+Ctrl + V										Paste content from clipboard
+Ctrl + A										Select all content
+Ctrl + Z										Undo an action
+Ctrl + Y										Redo an action
+Ctrl + D										Delete the selected item and move it to the Recycle Bin
+Ctrl + Esc										Open the Start Menu
+Ctrl + Shift									Switch the keyboard layout
+Ctrl + Shift + Esc								Open Task Manager
